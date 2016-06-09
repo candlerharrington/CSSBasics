@@ -1,0 +1,34 @@
+.cellMeat{
+background-color:aqua;
+}
+.cellFruit{
+background-color: red;
+}
+.cellFlower{
+background-color: yellow;
+}
+span{
+    display: inline-block;
+    border: 1px solid black;
+    font-weight: bold;
+    height: 70px;
+}
+button{
+    width: 100%;
+}
+cellFruit{
+    background: red;
+}
+span {
+display: inline-block;
+border: 1px solid black;
+font-weight: bold;
+padding: 10px 10px 30px 10px;
+width: 70px;
+margin-right: -10px;
+}
+li {
+    text-align: center;
+    list-style-type: none;
+}
+
